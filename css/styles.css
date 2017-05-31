@@ -1,0 +1,33 @@
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+#showing-definition-javascript {
+  display: none;
+}
+#showing-definition-operators {
+  display: none;
+}
+#showing-definition-variables {
+  display: none;
+}
+#showing-definition-functions {
+  display: none;
+}
+#showing-definition-methods {
+  display: none;
+}
+#showing-definition-arguments {
+  display: none;
+}
+#showing-definition-parameters {
+  display: none;
+}
+#showing-definition-strings {
+  display: none;
+}
